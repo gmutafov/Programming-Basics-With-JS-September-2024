@@ -45,7 +45,7 @@ function solve(a, b, operator){
             return;
             }
             result = a % b;
-            console.log(`${a} ${operator} ${b} = ${result}}`);
+            console.log(`${a} ${operator} ${b} = ${result}`);
         break;
     }
 }
